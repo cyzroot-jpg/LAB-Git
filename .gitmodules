@@ -1,0 +1,4 @@
+[submodule "mysubmodule2"]
+	path = mysubmodule2
+	url = https://github.com/Book-Light/test2.git
+	branch = main
